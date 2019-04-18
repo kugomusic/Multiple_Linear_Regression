@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+app/.DS_Store
+.xml
