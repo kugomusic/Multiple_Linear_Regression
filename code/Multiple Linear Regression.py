@@ -53,19 +53,6 @@ print(zs_predict)
 print("真实值")
 print(zs)
 
-# 自由度1的假数据
-zs_predict[3] = 0.39
-zs_predict[5] = 0.47
-zs_predict[7] = 0.27
-
-# 自由度2的假数据
-# zs_predict[0] = 0.2
-# zs_predict[4] = 0.29
-# zs_predict[5] = 0.4
-# zs_predict[6] = 0.34
-# zs_predict[7] = 0.46
-# zs_predict[8] = 0.47
-
 # 训练集坐标数据
 xs_train = []
 ys_train = []
